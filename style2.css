@@ -1,0 +1,56 @@
+body{
+	background-image: url("purpleglitterflowersvine.gif");
+	background-repeat: repeat;
+	background-color:black;
+
+}
+h1{
+	color: hotpink;
+	
+	font-size: 50px;
+}
+a{ color: #ff0000; }
+img{
+	padding: 50px;
+	border: 10px;
+	border-color: chartreuse
+	 }
+
+
+	 a:link, a:visited {
+		background-color: #84c456;
+		color: white;
+		border-radius: 10px;
+		padding: 14px 25px;
+		text-align: center; 
+		text-decoration: none;
+		display: inline-block;
+	  }
+	  
+	  a:hover, a:active {
+		background-color: #e3ffcf;
+		color: black;
+	  }
+	  .work {
+		display: inline-grid;
+		grid-template-columns: 605px 605px;
+		grid-template-rows: 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px;
+		grid-gap: 10px;
+	 
+	  }
+	  
+
+	  .vid{
+
+		display: grid;
+		object-position: center;
+		grid-template-columns: 605px 605px;
+		grid-template-rows: 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px 605px;
+		grid-gap: 10px;
+	 
+	
+	
+	
+	
+	  }
+	  
