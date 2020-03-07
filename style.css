@@ -85,4 +85,16 @@ img{
 
   }
 
+  .vid2{
+
+    display: grid;
+    object-position: center;
+    grid-template-columns:600px 600px;
+	
+
+
+
+
+  }
+
   
